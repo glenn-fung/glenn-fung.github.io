@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /links/
+permalink: /report/
 title: Bug/Typo/Mistake Report
 ---
 
