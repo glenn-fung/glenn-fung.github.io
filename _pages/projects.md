@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Teaching
+title: Teaching & Notes
 permalink: /projects/
 nav: true
 nav_order: 3
