@@ -1,0 +1,10 @@
+---
+layout: page
+permalink: /links/
+title: External Links
+description: This page contains some external links, to other scholars, or to pages that I would like to share. 
+---
+
+[Professor Rowland Seymour](https://www.rowlandseymour.com/) 
+
+[Professor David Ong](https://sites.google.com/view/davidongecon)
