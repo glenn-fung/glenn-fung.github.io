@@ -22,68 +22,43 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Research assistant for Professor David Ong
+      institution: Jinan University – University of Birmingham Joint Institute, Jinan University
+      year: 2023 – 2024
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - title: Topics
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+            - Behavior & experimental economics (e.g., consumer behavior, gender differences in competitiveness, marital search and matching).
+            - Labor economics (e.g., beauty premium).
+            - Financial economics (e.g., market microstructure).
+    - title: Teaching assistant
+      institution: Jinan University – University of Birmingham Joint Institute, Jinan University
+      year: 2022 – 2023
       description:
-        - Description 1.
-        - Description 2.
+        - Introduction to Microeconomics (2022 spring), TA for Professor David Ong.
+        - Intermediate Microeconomics (2022 fall), TA for Professor David Ong.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2023
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - Merit Student Award (Jinan)
+        - Summer Undergraduate Research Bursary (Birmingham)
+        - Academic Rising Star Scholarship (J-BJI)
+    - year: 2022
       items:
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
+        - Second-Class Merit Student Scholarship (Jinan)
+        - Merit Student Leader Award (Jinan)
+    - year: 2021
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+        - Merit Student Award (Jinan)
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - Music:: I had learnt violin for more than 17 years and can play a bit piano, viola and cello. 
+    - Sports: I regularly go jogging and do gym, and also enjoy swimming.
+    - I also enjoy cooking, traveling, photographing, volunteering, and video games.
 
