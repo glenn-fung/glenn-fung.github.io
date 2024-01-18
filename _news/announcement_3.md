@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Happy new year! :sparkles: 
+A simple inline announcement with Markdown emoji! :sparkles: :smile:
