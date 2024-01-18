@@ -2,11 +2,11 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Glenn Fung
     - name: Date of Birth
-      value: 14th March 1879
+      value: 30th April 2002
     - name: Languages
-      value: English, German
+      value: English, Cantonese, Mandarin, Spanish, Japanese
 
 - title: Education
   type: time_table
