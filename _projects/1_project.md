@@ -7,4 +7,4 @@ category: Undergraduate
 
 Recommended text: 
 
-* *Microeconomics*, Global Edition, 3rd edition, by Daron Acemoglu, David Laibson, and John List. 
+* *Microeconomics*, Global Edition, 3rd edition, by Daron Acemoglu, David Laibson, and John A. List. 
