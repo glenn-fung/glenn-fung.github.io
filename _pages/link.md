@@ -3,6 +3,7 @@ layout: page
 permalink: /links/
 title: External Links
 description: This page contains some external links, to other scholars, or to pages that I would like to share. 
+nav: false
 ---
 
 [Professor Rowland Seymour](https://www.rowlandseymour.com/) 
