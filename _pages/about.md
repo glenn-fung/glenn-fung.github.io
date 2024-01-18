@@ -1,26 +1,26 @@
 ---
 layout: about
-title: Home
+title: about
 permalink: /
-subtitle: Mathematics & economics undergraduate student. 
+subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>No. 855, East Xingye Avenue</p>
-    <p>Panyu District, 511400</p>
-    <p>Guangzhou, Guangdong, P.R.C.</p>
+    <p>555 your office number</p>
+    <p>123 your address street</p>
+    <p>Your City, State 12345</p>
 
 news: true # includes a list of news items
 latest_posts: true # includes a list of the newest posts
-selected_papers: false # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am Glenn Fung, in my senior year of the Applied Mathematics with Economics program jointly at the University of Birmingham (U.K.) and Jinan University (China). My my Chinese name in Cantonese is Fung Tsz Yui, and Zirui Feng in Mandarin. I have research experiences in areas such as machine learning, behavior economics, asset pricing, and financial market micro-structure.
+Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-Please feel free to [email me](mailto:glenn.fung@outlook.com) at glenn.fung@outlook.com or [connect me on LinkedIn](https://www.linkedin.com/in/glennfung) for anything! 
+Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-I am looking for graduate studies or predoctoral positions starting fall of 2024 :)
+Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
