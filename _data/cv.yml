@@ -11,22 +11,12 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+    - title: B.S. with Class I Honors in Applied Mathematics with Economics
+      institution: The University of Birmingham, Birmingham, United Kingdom
+      year: 2024
+    - title: B.Econ. in Economics
+      institution: Jinan University
+      year: 2024
 
 - title: Experience
   type: time_table
