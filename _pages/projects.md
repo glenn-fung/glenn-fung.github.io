@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Teaching & Notes
-permalink: /projects/
+permalink: /teaching/
 nav: true
 nav_order: 3
 display_categories: [Undergraduate]
