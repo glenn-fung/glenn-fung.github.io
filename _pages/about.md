@@ -2,6 +2,7 @@
 layout: about
 title: Home
 permalink: /
+subtitle: Economics & mathematics undergraduate student. 
 
 profile:
   align: right
