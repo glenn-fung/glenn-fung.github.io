@@ -3,6 +3,7 @@ layout: page
 title: Intermediate Microeconomics
 importance: 2
 category: Undergraduate
+description: TA, J-BJI, Fall, 2022
 ---
 
 Recommended text: 
