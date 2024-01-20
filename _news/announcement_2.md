@@ -28,6 +28,7 @@ Comparative judgment, which involves getting a set of judges to compare a set of
 $$
 \text{Logit}\left(\pi_{ij}\right) = \lambda_i-\lambda_j 
 $$
+
 $$
 Y_{ij} \sim \text{Binomial}\left(n_{ij},\pi_{ij}\right)
 $$
