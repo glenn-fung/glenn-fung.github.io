@@ -26,15 +26,16 @@ This project was conducted under the supervision of [Professor Rowland Seymour](
 Comparative judgment, which involves getting a set of judges to compare a set of players, is a useful and intuitive technique for data that has long been proposed but used only within a limited range. As other forms of survey data, data used for comparative judgment are frequently placed subject to the questioning of reliability. This project focused on the Bradley-Terry model for assessing binary judgments. 
 
 $$
-\text{Logit}\left(\pi_{ij}\right) = \lambda_i-\lambda_j \\
+\text{Logit}\left(\pi_{ij}\right) = \lambda_i-\lambda_j 
+$$
+$$
 Y_{ij} \sim \text{Binomial}\left(n_{ij},\pi_{ij}\right)
 $$
 
 As the main theme of it indicates, this project sought to summarize and explore the relationship between different approaches to assess the reliability of data, especially, scale separation reliability (SSR) and split halves.  
 
 $$
-\text{SSR} = \frac{G^2}{1+G^2}, \, \text{where} \\
-G=\frac{\sigma_{\lambda}}{\text{RMSE}}
+\text{SSR} = \frac{G^2}{1+G^2}, \text{ where } G=\frac{\sigma_{\lambda}}{\text{RMSE}}
 $$
 
 We found that, SSR is associated to the Pearson correlation coefficient from split halves within one round when the internal consistency of the two subsets is high. Also, by lowering the hierarchy of the split halves and excluding players with large variances, traditional data reliability methods could still be applied to sparse data. 
