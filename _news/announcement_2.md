@@ -26,7 +26,10 @@ This project was conducted under the supervision of [Professor Rowland Seymour](
 Comparative judgment, which involves getting a set of judges to compare a set of players, is a useful and intuitive technique for data that has long been proposed but used only within a limited range. As other forms of survey data, data used for comparative judgment are frequently placed subject to the questioning of reliability. This project focused on the Bradley-Terry model for assessing binary judgments. 
 
 $$
-\text{Logit}\left(\pi_{ij}\right) = \lambda_i-\lambda_j, \text{ and }
+\text{Logit}\left(\pi_{ij}\right) = \lambda_i-\lambda_j
+$$
+
+$$
 Y_{ij} \sim \text{Binomial}\left(n_{ij},\pi_{ij}\right)
 $$
 
