@@ -2,12 +2,12 @@
 layout: about
 title: Home
 permalink: /
-subtitle: Mathematics & economics student
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
+  more_info: <a href="mailto:glenn.fung@outlook.com">📧 glenn.fung@outlook.com</a>
 
 news: true # includes a list of news items
 latest_posts: true # includes a list of the newest posts
