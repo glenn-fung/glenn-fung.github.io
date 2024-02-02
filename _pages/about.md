@@ -7,7 +7,9 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: <a href="mailto:glenn.fung@outlook.com">📧 glenn.fung@outlook.com</a>
+  more_info: >
+    <p><a href="mailto:glenn.fung@outlook.com">📧 glenn.fung@outlook.com</a></p>
+    <p><a href="https://www.linkedin.com/in/glennfung/">LinkedIn Profile</a></p>
 
 news: true # includes a list of news items
 latest_posts: true # includes a list of the newest posts
