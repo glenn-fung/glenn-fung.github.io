@@ -122,8 +122,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Blogs # blog_name will be displayed in your blog page
-blog_description: Blogs that I have written, related to work, life, profession, etc. 
+#blog_name: Blogs # blog_name will be displayed in your blog page
+#blog_description: Blogs that I have written, related to work, life, profession, etc. 
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -263,8 +263,8 @@ jekyll-archives:
     tag: "/blog/tag/:name/"
     category: "/blog/category/:name/"
 
-display_tags: ["Personal", "Education", "Life"] # these tags will be displayed on the front page of your blog
-display_categories: ["Statistics", "Economics", "Finance", "Psychology", "Typesetting"] # these categories will be displayed on the front page of your blog
+#display_tags: ["Personal", "Education", "Life"] # these tags will be displayed on the front page of your blog
+#display_categories: ["Statistics", "Economics", "Finance", "Psychology", "Typesetting"] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
