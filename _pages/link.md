@@ -1,8 +1,10 @@
 ---
 layout: page
-permalink: /links/
-title: External Links
+permalink: /resources/
+title: Other Resources
 ---
+
+# Links to Other Scholars
 
 Professor David Ong: [https://sites.google.com/view/davidongecon](https://sites.google.com/view/davidongecon)
 
