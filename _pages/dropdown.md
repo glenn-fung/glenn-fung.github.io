@@ -5,8 +5,8 @@ nav: true
 nav_order: 5
 dropdown: true
 children:
-  - title: External Links
-    permalink: /links/
+  - title: Other Resources
+    permalink: /resources/
   - title: Bug/Typo/Mistake Report
     permalink: /report/
 ---
