@@ -8,3 +8,7 @@ cv_pdf: CV.pdf
 toc:
   sidebar: left
 ---
+**Contact**: <br>
+Email: <a href="mailto:glenn.fung@outlook.com">glenn.fung@outlook.com</a><br>
+LinkedIn Profile: <a href="https://www.linkedin.com/in/glennfung/">linkedin.com/in/glennfung</a><br>
+Website: <a href="https://glenn-fung.github.io/">glenn-fung.github.io</a><br>
