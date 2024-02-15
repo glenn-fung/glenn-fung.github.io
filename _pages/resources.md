@@ -14,7 +14,7 @@ Professor Rowland Seymour: [https://www.rowlandseymour.com](https://www.rowlands
 
 * *The Not So Short Introduction to LaTeX*: [https://tobi.oetiker.ch/lshort/lshort.pdf](https://tobi.oetiker.ch/lshort/lshort.pdf).
 * *Beamer Tips* by Paul Goldsmith-Pinkham with code: [https://paulgp.github.io/beamer_tips.html](https://paulgp.github.io/beamer_tips.html).
-* *Code and Data for the Social Sciences* by Matthew Gentzkow and Jesse M. Shapiro: [https://web.stanford.edu/~gentzkow/research/CodeAndData.pdf](https://web.stanford.edu/~gentzkow/research/CodeAndData.pdf). 
+* *Code and Data for the Social Sciences* by Matthew Gentzkow and Jesse M. Shapiro: [https://web.stanford.edu/~gentzkow/research/CodeAndData.pdf](https://web.stanford.edu/~gentzkow/research/CodeAndData.pdf) (PDF version); [https://web.stanford.edu/~gentzkow/research/CodeAndData.xhtml](https://web.stanford.edu/~gentzkow/research/CodeAndData.xhtml) (HTML version). 
 
 # Machine Learning
 
