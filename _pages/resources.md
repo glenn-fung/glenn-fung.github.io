@@ -13,8 +13,13 @@ Professor Rowland Seymour: [https://www.rowlandseymour.com](https://www.rowlands
 # Typesetting and Managing Research Projects
 
 * *The Not So Short Introduction to LaTeX*: [https://tobi.oetiker.ch/lshort/lshort.pdf](https://tobi.oetiker.ch/lshort/lshort.pdf).
-* *Beamer Tips* by Paul Goldsmith-Pinkham with code: [https://paulgp.github.io/beamer_tips.html](https://paulgp.github.io/beamer_tips.html).
-* *Code and Data for the Social Sciences* by Matthew Gentzkow and Jesse M. Shapiro: [https://web.stanford.edu/~gentzkow/research/CodeAndData.pdf](https://web.stanford.edu/~gentzkow/research/CodeAndData.pdf) (PDF version); [https://web.stanford.edu/~gentzkow/research/CodeAndData.xhtml](https://web.stanford.edu/~gentzkow/research/CodeAndData.xhtml) (HTML version). 
+  * Introdcution to LaTeX and TikZ.
+* Making slides with LaTeX: *Beamer Tips* by Paul Goldsmith-Pinkham: [https://paulgp.github.io/beamer_tips.html](https://paulgp.github.io/beamer_tips.html).
+  * Making slides with LaTeX. With code! 
+* *Code and Data for the Social Sciences* by Matthew Gentzkow and Jesse M. Shapiro: [https://web.stanford.edu/~gentzkow/research/CodeAndData.pdf](https://web.stanford.edu/~gentzkow/research/CodeAndData.pdf).
+  * Project management in social sciences research.
+* *Pro Git* by Scott Chacon and Ben Straub [https://git-scm.com/book/en/v2](https://git-scm.com/book/en/v2).
+  * Introduction to version control and Git.
 
 # Machine Learning
 
