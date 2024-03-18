@@ -3,8 +3,6 @@
   contents:
     - name: Full Name
       value: Glenn Fung
-    - name: Date of Birth
-      value: 30th April 2002
     - name: Languages
       value: English, Cantonese, Mandarin, Spanish, Japanese
 
@@ -17,27 +15,6 @@
     - title: B.Econ. in Economics
       institution: Jinan University, Guangzhou, P.R.C.
       year: 2024
-
-
-- title: Experience
-  type: time_table
-  contents:
-    - title: Research assistant for Professor David Ong
-      institution: Jinan University – University of Birmingham Joint Institute, Jinan University
-      year: 2023 – 2024
-      description:
-        - title: Topics
-          contents:
-            - Behavior & experimental economics (e.g., consumer behavior, gender differences in competitiveness, marital search and matching).
-            - Labor economics (e.g., beauty premium).
-            - Financial economics (e.g., market microstructure).
-    - title: Teaching assistant
-      institution: Jinan University – University of Birmingham Joint Institute, Jinan University
-      year: 2022 – 2023
-      description:
-        - Introduction to Microeconomics (2022 spring), TA for Professor David Ong.
-        - Intermediate Microeconomics (2022 fall), TA for Professor David Ong.
-
 
 - title: Awards, Scholarships, and Grants
   type: time_table
@@ -55,11 +32,3 @@
     - year: 2021
       items:
         - Merit Student Award (Jinan)
-
-- title: Other Interests
-  type: list
-  contents:
-    - I had learnt violin for more than 17 years and can also play a bit piano, viola and cello. 
-    - I regularly go jogging and do gym, and also enjoy swimming.
-    - I also enjoy cooking, traveling, photographing, volunteering, and video games.
-
