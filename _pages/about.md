@@ -19,7 +19,7 @@ I am Glenn Fung, in my senior year of the Applied Mathematics with Economics pro
 Please feel free to reach out!
 
 **Contact**: <br>
-Email: <a href="mailto:glen.fng@gmail.com">glen.fng@gmail.com</a><br>
+Email: <a href="mailto:glenntfung@gmail.com">glenntfung@gmail.com</a><br>
 LinkedIn Profile: <a href="https://www.linkedin.com/in/glennfung/">linkedin.com/in/glennfung</a><br>
 Website: <a href="https://glenn-fung.github.io/">glenn-fung.github.io</a><br>
 
